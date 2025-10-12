@@ -1,0 +1,13 @@
+i, em, span, b, strong {
+    color: rgb(144, 193, 144);
+    text-decoration: underline;
+}
+
+ol, ul {
+    border: 1px solid lightcoral;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
